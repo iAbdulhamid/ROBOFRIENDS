@@ -1,0 +1,6 @@
+/dist
+/temp
+
+# dependencies
+/node_modules
+.vscode
